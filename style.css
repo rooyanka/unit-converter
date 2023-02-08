@@ -1,0 +1,70 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: tahoma;
+	background-color: lavender;
+	
+}
+
+h1#heading{
+	text-align: center;
+	margin-top: 40px;
+}
+
+#container{
+
+	margin: 15px auto 0px auto;
+	width: 80%;
+	text-align: center;
+	background-color: lightgrey;
+	border-radius: 10px;
+	padding: 20px;
+	border: solid;
+}
+
+.input-div{
+	display: inline-block;
+}
+
+.input{
+	padding: 5px 10px;
+	margin: 10px;
+	font-size: 30px;
+	font-weight: bold;
+	width: 200px;
+	text-align: center;
+	border-radius: 10px;
+}
+
+label{
+	font-size: 20px;
+}
+
+#footer{
+	padding: 20px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
